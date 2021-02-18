@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.container{
+    width: 80%;
+    margin: 0% auto;
+}
+
+header{
+    background-color: seagreen;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+.logaritmo{
+    margin-left: 3em;
+}
+.nav{
+    margin-right: 3em;
+}
+
+.nav a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 3em;
+}
+
+.main{
+    background-color: violet;
+    margin-top: 20px;
+    padding:3.5em;
+}
