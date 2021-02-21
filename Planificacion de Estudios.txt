@@ -1,0 +1,7 @@
+
+
+Metodo de Estudio de Git y GitHub
+    Antes de estudiar contenido nuevo {Hacer practica  con lo visto anteriormente y autoexaminacion con los Conceptos y memorizar los comandos tras haberlos comprendido} tomar un descanso {practicar y estudiar leccion correspondinte} descanso {practica y autoexaminacion de lo visto de la anterior leccion} descanso aplicar repeticion espciada si hay mas tiempo volver  realizar la rutina    
+
+Metodo de Estudio de JavaScript
+    {autoexaminacion de lo aprendido anteriormente } {al terminar cada modulo hacer un resumen de todo lo que se supone que debi haber aprendido a nivel teorico y practico si hay huecos no avanzar hasta rellenarlos} {Estudiar 1 pomodoro  tomando apuntes y practicando} {al terminar la sesion practicar de manera individual lo aprendido} {dedicarle 15 min a una practica libre con JS}
