@@ -49,7 +49,21 @@
 		2. Intelecto
 		3. aceptación
 
+	CLARIDAD A NIVEL DE ESTUDIO DEL 2021
+	META:
+		Este año 2021 termino mi bachiller y obtengo mi titulo y cumplo mis 18 me interesa aprender todas las habilidaes necesarias para conseguir empleo como desarrollador y pagar yo mismo mi educacion el año 2022. desarrollarme mas personalmente en ese empleo conseguir experiencia en muchos aspectos y tener una condicion economica que me permita cambir mis dispositivos electronicos laptop mouse auriculares cel etc todo ello que apunte a una mejoria en mi y no se que sea comprarlo a lo loco o paque me vean ej comprar un cel que no necesito a lo loco etc poder ejercitarme y suplir los gastos de la alimentacion que quiero llevar comprar ropa accesorios de mi guitarra etc en su momento hare una lista de esto con su debida prioridad | Nota: 
+						en su debido momento al alcanzar cada etapa hago un plan con claridad respecto a esa nuev etapa ej ya estamos en 2022 al conseguir empleo haria un plan de claridad de como desarrollarme mas en ese empleo. y a nivel economico referente a las cosas que quiero conseguir un plan para conseguir las cosas con mayor prioridad y cambios a conseguir
+	PLAN DE ESTUDIO:
+		La mitad del año enfocada en esto
+			Aprender las Bases: lo basico de {html css y javascript una vez hecho esto empezar a hacer muchas practicas de manera inteligente que en su momento planeare para que sea inteligente de modo que solo me enfoque solamente en esto 100% orientando estas practicas para apredenderme y desarrollarme mejor en estas tecnologias y orientando las practicas al responsive design animaciones en css etc al final muchos mas adelante tras tener un muy buen nivel en estas tecnologias aprender sus respctivos pre-procesadores y despues el SEO}
+			 
+			y las cosas basicas de la ingenieria y del 	workflow en generl {Fundamentos de Ingnieria De Software} {Git y GitHub, y la terminal}  {Matematicas y Estadistica} y despues viene el desarrollo y planificacion al igual que todo de {Diseño a nivel de desarrollo {XD, SKETCH,PHOTOSHOP UX Y UI}}
+			NOTA A NIVEL DE DESARROLLO HACER SU RESPECTIVA INVESTIGACION DE LOS PROGRAMAS DE DISEÑO A APRENDER
 
+
+
+
+		La otra mitad del año
 
 
 
