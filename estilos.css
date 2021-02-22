@@ -4,6 +4,10 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
+body{
+    
+    background-color: rgb(90, 199, 214);
+}
 
 
 
@@ -13,7 +17,8 @@
 }
 
 header{
-    background-color: seagreen;
+    background-color: rgb(35, 130, 194);
+    box-shadow: 10px 10px 100px 10px rgb(0, 132, 255);
     color: white;
     display: flex;
     align-items: center;
