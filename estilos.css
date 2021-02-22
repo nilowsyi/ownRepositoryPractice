@@ -44,3 +44,9 @@ header{
     margin-top: 20px;
     padding:3.5em;
 }
+
+footer{
+    background-color: silver;
+    padding: 2rem;
+    text-align: center;
+}
