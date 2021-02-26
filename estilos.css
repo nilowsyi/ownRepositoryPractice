@@ -17,8 +17,10 @@ body{
 }
 
 header{
+
     background-color: rgb(35, 194, 133);
     box-shadow: 10px 10px 100px 10px rgb(59, 228, 36);
+
     color: white;
     display: flex;
     align-items: center;
